@@ -1,0 +1,41 @@
+print("Hi Welcome to TheFlyingEmerald's Question Bot!!!")
+
+Name = input('Hi what is your name? ')
+print("Wow!, thats a wonderful name you have :D")
+age = input('How old are you? ')
+MyName = input('Do you know my name?? ')
+print("My name is TheFlyingEmerald! ")
+color = input('What is your favorite color? ')
+anime = input ('What is your favorite anime? ')
+print("Yoo i love that one too ")
+movie = input("What is your favorite movie? ")
+print("Ohh yes i know that movie its really good! ")
+icecream = input('Do you like icecream? ')
+subject = input('What is your favorite subject in school? ')
+print("I like English the most ")
+food = input('What is your favorite food? ')
+print("I love Cheese Sandwich's ")
+dessert = input('What is your favorite dessert? ')
+print("Yummmm thats really tasty! ")
+game = input('What is your favorite video game? ')
+print ("Ohhhh yeahhh that one i LOVE THAT GAME! ")
+weather = input('What is your favorite weather,I like Rainy the most.')
+season = input('What is your favorite season? I like Winter ')
+hobby = input('What is your hobby?')
+print("ohhh thats a nice hobby you have, keep it up and u might even get a job because of your hobby :D ")
+song = input('What is your favorite song? ')
+print("is it the song that goes laalallalalaalallalalalaala? ")
+fruit = input('What is your favorite fruit? ')
+print("I dont have anymore questions for you!")
+
+print("Its been very fun talking to you but I have to go now I will see you later bye :) ")
+
+
+
+
+
+
+
+
+print("Btw This Is my First Program!!:D")
+("end")
